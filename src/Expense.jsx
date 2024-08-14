@@ -170,7 +170,7 @@ let updateplaceRef = useRef()
     <input ref={updatepriceRef} type="number" placeholder='price' /> 
     <button onClick={handleUpdateSubmit} className='btn btn-success'>submit updates</button>
   </form>
-</div>}
+</div>};
 
 <GetText text = "expense page se aaye"/>
     </div>
