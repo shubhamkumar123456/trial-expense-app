@@ -62,7 +62,7 @@ let updateplaceRef = useRef()
         }
     }
     const handleDelete = (ans,i)=>{
-      console.log(ans,i)
+      console.log(ans,i);
       // method 1 using splice method
    
       // let copyArr = [...arr]
